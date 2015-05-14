@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\gnfos\2D_gnfos\Assets\Scripts\PlayerControllerScript.cs">
+    <Files>
+      <File FileName="..\..\gnfos\2D_gnfos\Assets\Scripts\PlayerControllerScript.cs" Line="235" Column="3" />
+      <File FileName="..\..\gnfos\2D_gnfos\Assets\Scripts\TuxScript.cs" Line="40" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
